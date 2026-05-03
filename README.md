@@ -10,13 +10,13 @@ Existe-t-il une inégalité spatiale face aux nuisances sonores ?
 ## Cartes
 
 ### Bruit routier
-![Carte bruit](lien_image)
+![Carte bruit](carte_bruit.png)
 
 ### Densité de population
-![Carte population](lien_image)
+![Carte population](carte_population.png)
 
 ### Revenus
-![Carte revenus](lien_image)
+![Carte revenus](carte_revenus.png)
 
 ## Conclusion
 Les résultats montrent une forte concentration du bruit dans les zones urbaines denses et le long des axes routiers.
